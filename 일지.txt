@@ -3,3 +3,6 @@
 EditText 테두리 넣는법 주소 : https://jain5480.blog.me/221189497295
 
 기본적인 틀만 제작 디자인은 나중에하자
+
+오전 12:36 2019-06-25
+http://blog.naver.com/PostView.nhn?blogId=rain483&logNo=220812563378&parentCategoryNo=&categoryNo=16&viewDate=&isShowPopularPosts=false&from=postView 자동로그인 참고 주소
