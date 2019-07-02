@@ -25,7 +25,7 @@ public class ReserveActivity extends AppCompatActivity {
         mWebView.getSettings().setJavaScriptEnabled(true);
         //mWebView.loadUrl("http://www.pois.co.kr/mobile/login.do");
 
-        mWebView.loadUrl(myURL + "/html/test.html"); // 접속 URL
+        mWebView.loadUrl(myURL); // 접속 URL
         mWebView.setWebChromeClient(new WebChromeClient());
         mWebView.setWebViewClient(new WebViewClientClass());
 
